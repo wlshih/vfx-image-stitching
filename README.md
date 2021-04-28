@@ -1,0 +1,1 @@
+# vfx-image-stitching
